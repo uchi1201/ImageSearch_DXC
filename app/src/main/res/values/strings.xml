@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ImageSearch_DXC</string>
+    <string name="app_name">ImageSearch</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="gallery">Gallery</string>
 </resources>

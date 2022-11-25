@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "ImageSearch_DXC"
+rootProject.name = "ImageSearch"
 include ':app'
